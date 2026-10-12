@@ -1,0 +1,2 @@
+ I think Git is a version control system to allow you to have different versions of programs stored and be able to do various things such as compare previous code with new code or be able to merge with somebody else’s code. Though I read online not to think Git as a database system, which sort of confused me, is that what Github is for? GitHub seems more of cloud based service to host the repositories or folders of projects, or is GitHub more of a UI to interact with Git like how other GUIs are such as SourceTree?
+
